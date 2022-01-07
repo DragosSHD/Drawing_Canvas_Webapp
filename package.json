@@ -1,0 +1,23 @@
+{
+  "name": "drawing-canvas-webapp",
+  "version": "1.0.0",
+  "description": "Node app using web sockets",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragosSHD/Drawing_Canvas_Webapp.git"
+  },
+  "author": "Dragos Dobre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragosSHD/Drawing_Canvas_Webapp/issues"
+  },
+  "homepage": "https://github.com/DragosSHD/Drawing_Canvas_Webapp#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
