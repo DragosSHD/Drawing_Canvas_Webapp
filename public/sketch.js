@@ -27,5 +27,5 @@ function mouseDragged() {
     }
 
     socket.emit('mouse', data);
-
 }
+
