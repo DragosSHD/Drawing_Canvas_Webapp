@@ -11,6 +11,8 @@
 This project was created by following [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) [tutorial](https://www.youtube.com/watch?v=bjULmG8fqc8)  about Node.js, WebSockets and P5.js. 
 In addition to what was presented in the tutorial, I have added the possibility of changing the brush color and arranged everything in a simple FE using flex.
 
+![Demo Screenshot](https://github.com/DragosSHD/Drawing_Canvas_Webapp/blob/master/img/demo_screenshot.png)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
